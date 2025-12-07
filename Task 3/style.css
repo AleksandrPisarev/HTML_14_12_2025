@@ -1,0 +1,26 @@
+header{
+    max-width: 95%;
+    height: 60px;
+    background-color:hotpink;
+    color: aliceblue;
+    margin: 40px 30px 20px;
+}
+div{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+main{
+    max-width: 95%;
+    height: 60px;
+    background-color:maroon;
+    color: aliceblue;
+    margin: 40px 30px 20px;
+}
+footer{
+    max-width: 95%;
+    height: 60px;
+    background-color:maroon;
+    color: aliceblue;
+    margin: 40px 30px 20px;
+}
